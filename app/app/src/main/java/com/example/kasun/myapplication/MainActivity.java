@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
         // Some msg
         // some another message
         // Some another msg
+        // some another message
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
