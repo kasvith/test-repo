@@ -10,7 +10,8 @@ public class MainActivity extends AppCompatActivity {
         // Some msg
         // some another message
         // Some another msg
-        super.onCreate(savedInstanceState);
+        // some another message sgsh
+         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
 }
